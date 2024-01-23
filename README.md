@@ -14,3 +14,11 @@ the script uses the API of leakcheck.io the dataleak site that I consider to be 
 
 The API is to be saved in the file:
 .pylcapi
+
+
+example .pylcapi editing:
+
+using terminal:
+nano .pylcapi then insert this string (API with your API)
+
+{"key": "API", "proxy": ""}
